@@ -1,10 +1,8 @@
-This is where u can find how to run your first application with node JS
+Memo How to use npm
 
 
-
-1. install npm
-2. init your sever : npm init
-3. run the exec command : npm run exec
-
-Job done
+init a npm server : npm init
+run a file : node <file>
+run a script : npm run-script <script>
+install a package : npm install <package> --save
 

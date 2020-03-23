@@ -6,8 +6,12 @@
   "scripts": {
     "firstProg": "node firstProg.js",
     "firstServer": "node firstServer.js",
+    "main" : "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sébastien HERT",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
